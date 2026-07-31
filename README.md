@@ -1,5 +1,5 @@
 # Mechanical-Engineering-Toolbox
-# Mechanical Engineering Toolbox
+
 
 A Python desktop application that provides a collection of 28 engineering calculators and interactive visualizations for common mechanical engineering problems. The project was developed to automate engineering calculations, reinforce engineering concepts, and provide clear graphical representations of physical systems.
 
